@@ -1,12 +1,11 @@
 //public class Main {
 //    public static void main(String[] args) {
 //        vinay o=new vinay();
-<<<<<<< HEAD
+
 //        // this issue can be resolve by like this
 ////        Main m = new Main();
 ////        Main.vinay v = m.new vinay();
-=======
->>>>>>> 2de078d721dae767aa2f51033d45e1443c3f6050
+
 //        System.out.println(vinay.wow);
 //        System.out.println(o.wow);
 //        System.out.println(o.x);
@@ -23,25 +22,13 @@
 //
 //
 //    }
-<<<<<<< HEAD
-//    class vinay{
-=======
+
 //    static class vinay{
->>>>>>> 2de078d721dae767aa2f51033d45e1443c3f6050
 //        int wow=44;
 //        static int x=99;
 //        static int prasanna=10;
 //
 //    }
-<<<<<<< HEAD
-//    static class Node{
-=======
-//     static class Node{
->>>>>>> 2de078d721dae767aa2f51033d45e1443c3f6050
-//
-//    }
-//
-//}
 
 // static and non static my understandings:
 // there will be only 1 public class
@@ -57,7 +44,7 @@
 // I need to check for more like this but ya as of now it is fine even though i was just trying to play
 // but this my pure observation
 
-<<<<<<< HEAD
+
 
 
 
@@ -94,5 +81,4 @@
 //
 //        I need to check more cases like this, but as of now this is what I observed while playing around with static and non-static concepts. These are my current observations and understanding.
 //
-=======
->>>>>>> 2de078d721dae767aa2f51033d45e1443c3f6050
+
