@@ -1,20 +1,21 @@
 //public class Main {
 //    public static void main(String[] args) {
-//        vinay o=new vinay();
-
+//        vinay o = new vinay();
+//
 //        // this issue can be resolve by like this
 ////        Main m = new Main();
 ////        Main.vinay v = m.new vinay();
-
+//
 //        System.out.println(vinay.wow);
 //        System.out.println(o.wow);
 //        System.out.println(o.x);
 //        System.out.println(vinay.x);
-//        Node newnodew=new Node();
+//        Node newnodew = new Node();
 //
 //    }
-//    public void s(){
-//        vinay o=new vinay();
+//
+//    public void s() {
+//        vinay o = new vinay();
 //        System.out.println(vinay.x);
 //        System.out.println(vinay.wow);
 //        System.out.println(o.x);
@@ -22,13 +23,14 @@
 //
 //
 //    }
-
-//    static class vinay{
-//        int wow=44;
-//        static int x=99;
-//        static int prasanna=10;
+//
+//     class vinay {
+//        int wow = 44;
+//        static int x = 99;
+//        static int prasanna = 10;
 //
 //    }
+//}
 
 // static and non static my understandings:
 // there will be only 1 public class
@@ -82,3 +84,4 @@
 //        I need to check more cases like this, but as of now this is what I observed while playing around with static and non-static concepts. These are my current observations and understanding.
 
 
+// then why does it eun when i declare that class out side the class even if it is non static still we can create the object insdie static method?
