@@ -40,4 +40,6 @@
 // do not create it s object inside static method if still not
 // create it as separate class and not as a nested one
 
+// I need to check for more like this but ya as of now it is fine even though i was just trying to play
+// but this my pure observation
 
