@@ -85,3 +85,21 @@
 
 
 // then why does it eun when i declare that class out side the class even if it is non static still we can create the object insdie static method?
+
+//class Outer {
+//    class Inner {
+//        void display() {
+//            System.out.println("Hello");
+//        }
+//    }
+//
+//    public static void main(String[] args) {
+//        Inner obj = new Inner(); // Error
+//    }
+//}
+//
+//
+//    Outer outer = new Outer();
+//    Outer.Inner inner = outer.new Inner();
+
+//    When main() starts, there is no Outer object yet. But Inner is attached to an Outer object, so Java doesn't know which Outer instance the Inner should belong to.
