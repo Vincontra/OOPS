@@ -9,11 +9,16 @@ public class InnerClass {
 //        }
 //    }
     class A{
+        // if this is static then not dependable upon the objects of outer class and hence we can make it's object which are
+        // acts as individual then like if two objects are created with two different names then that two names will be printed
 //        static String name;
         String name;
         public A(String name){
 //            A.name=name;
             this.name = name;
+        }
+        public String toString(){
+            return "wow";
         }
     }
 
@@ -24,7 +29,7 @@ public class InnerClass {
 
 //       A a=new A("abcd");
 //       A b=new A("xyz");
-       System.out.println(pqr.name);
+       System.out.println(pqr);
       // System.out.println(b.name);
 
     }
