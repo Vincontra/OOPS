@@ -74,6 +74,8 @@ public class WildCard <T extends Number>{
         // eg is written method name is getList
 
 
+
+
     }
 
 }
