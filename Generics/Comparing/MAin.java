@@ -29,6 +29,7 @@ public class MAin {
 
         Student arr[]={vinay,mohak,avinash,manas};
         System.out.println(Arrays.toString(arr));
+
         //Arrays.sort(arr);                           // sort depends upon the compareTo
        // System.out.println(Arrays.toString(arr));  // print depends upon the toString mehtod like what we want to print
 
